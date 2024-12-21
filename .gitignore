@@ -1,0 +1,36 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# Logs
+*.log
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Coverage
+/coverage/
+
+# IDE or editor folders
+/.idea/
+/.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
